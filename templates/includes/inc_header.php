@@ -23,5 +23,5 @@
   <?php require_once INCLUDES.'inc_styles.php'; ?>
 </head>
 
-<body>
+<body id="page-top">
 <!-- ends inc_header.php -->
